@@ -1,4 +1,4 @@
-# Hi, I'm [Samir Saad]
+# Hi, I'm Samir Saad
 Final-year IT student (Software track) and data analyst, learning .NET and building backend projects.
 
 ## Currently learning
