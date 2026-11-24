@@ -7,7 +7,7 @@ Final-year IT student (Software track) and data analyst, learning .NET and build
 - ASP.NET Core Web API
 
 ## What I do
-- Work with production data at a garment factory
+- Work with production data at a  factory
 - Build small projects and push them here weekly
 
 ## Contact
